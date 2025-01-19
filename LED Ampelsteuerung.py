@@ -1,10 +1,11 @@
 ####
 #18.01.2025 Titel:
-#Inhalt short
+#Mehrere LED's, Transistor, Iterationen
 ####
 
 ####
-#Kapitel
+#In 3 Schritten zu mehr Wissen
+#In 4 Einfachen Schritten zur Ampelanlage
 ####
 
 
